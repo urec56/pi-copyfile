@@ -1,0 +1,7 @@
+{
+	"name": "pi-copyfile",
+	"version": "0.1.0",
+	"private": true,
+	"description": "Copy project files to your system clipboard from inside pi: /copyfile <path>",
+	"keywords": ["pi-package"]
+}
